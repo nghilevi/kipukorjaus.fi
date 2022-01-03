@@ -1,4 +1,5 @@
-# Pertti Rudolf Lindholm's personal website
+# kipukorjaus.fi (2014)
+Kipukorjaus, which means 'Pain correction' in English, is Dr. Pertti Rudolf Lindholm's personal website.
 Language: Finnish
 
 ## Implementation Guide
